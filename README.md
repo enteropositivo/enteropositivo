@@ -1,7 +1,7 @@
 # About me
 - 👋 Hi, I’m @enteropositivo
 - :date: I've more than 20 years developing software/web/hardware in several programing languages
-- :scroll: C/C++, Java, JavaScript, C#, PHP, Python, Lua, vb, ...
+- :scroll: Rust, C/C++, Java, JavaScript, C#, PHP, Python, Lua, vb, ...
 - :blush: I enjoy developing interesting projects that make me feel happy and that can be useful for more people.
 - 📧 @enteropositivo (Twitter, Gmail, Github, Gists)
 
